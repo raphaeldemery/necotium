@@ -131,4 +131,4 @@ periodo_selecionado = st.sidebar.multiselect(
 
 # Adicione um footer
 st.markdown("---")
-st.markdown("Dashboard criado com Streamlit e Plotly")
+st.markdown("Dashboard desenvolvido por Necotium")
